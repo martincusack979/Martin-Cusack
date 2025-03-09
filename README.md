@@ -1,2 +1,2 @@
-# Martin-Cusack
+# Martin Cusack
 My personal repository
